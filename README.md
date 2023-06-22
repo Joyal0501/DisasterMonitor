@@ -1,4 +1,4 @@
-,  DisasterMonitor
+# DisasterMonitor
 
 Started only as a basic Natural Language Processing Model to identify Disaster related tweets,  it turned into a full out Integrated System consisting of
 
