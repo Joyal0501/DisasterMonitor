@@ -12,4 +12,4 @@ env_variables:
   CLOUD_SQL_USERNAME: Joyal
   CLOUD_SQL_PASSWORD: DE#2023
   CLOUD_SQL_DATABASE_NAME: Disaster
-  CLOUD_SQL_CONNECTION_NAME: disastermonitor:asia-south1:disasterdata
+  CLOUD_SQL_CONNECTION_NAME: #<Confidential>
