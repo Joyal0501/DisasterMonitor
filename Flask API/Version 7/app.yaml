@@ -1,0 +1,15 @@
+#app.yaml
+runtime: python311
+instance_class: F4
+automatic_scaling:
+  min_idle_instances: automatic
+  max_idle_instances: 1
+  min_pending_latency: automatic
+  max_pending_latency: 0.030s
+  max_instances: 1
+
+env_variables:
+  CLOUD_SQL_USERNAME: Joyal
+  CLOUD_SQL_PASSWORD: DE#2023
+  CLOUD_SQL_DATABASE_NAME: Disaster
+  CLOUD_SQL_CONNECTION_NAME: twitterdisasterdeploy:us-west1:disasterdata

@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+PyMySQL==1.0.3
+scikit-learn
+nltk
+pandas
+scipy
+gunicorn
